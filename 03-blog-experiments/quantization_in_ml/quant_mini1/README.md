@@ -1,5 +1,5 @@
 ```
-quant-mini1/
+quant_mini1/
 ├── quantize.py
 ├── notebooks/
 │   └── error_vs_bits.ipynb
@@ -20,18 +20,11 @@ This project implements an **affine quantization** scheme for NumPy arrays.
 ## Folder Structure
 
 - `quantize.py` — Core implementation of `quantize` and `dequantize` functions.
-- `notebooks/error_vs_bits.ipynb` — Jupyter notebook demonstrating error analysis for bit-widths [2, 4, 8].
+- `notebooks/error_vs_bits.ipynb` — Jupyter notebook demonstrating error analysis for bit-widths [2, 4, 8, ..32].
 - `tests/test_quantize.py`
 - `README.md` — Project description, usage, and examples.
 
 ## Getting Started
-
-### Prerequisites
-- Python 3.11+
-- NumPy
-- Matplotlib (for plotting)
-- pytest (for tests)
-
 
 ### Usage
 ```python
