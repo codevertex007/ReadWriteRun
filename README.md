@@ -83,7 +83,6 @@ This project has three core tracks:
 ---
 
 ## 🧪 Blog Experiments
-- [RNN from Scratch (Blog)](./03-blog-experiments/rnn-from-scratch-blog/)
-- [GPT Fine-tuning (Blog)](./03-blog-experiments/gpt-finetune-blog/)
+- [Quantization in Machine Learning](./03-blog-experiments/quantization_in_ml/)
 
 
