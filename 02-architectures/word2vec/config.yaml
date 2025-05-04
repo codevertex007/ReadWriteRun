@@ -1,0 +1,9 @@
+model_name: skipgram
+embedding_dim: 100
+data_dir: data/wikitext-103-v1
+train_batch_size: 96
+val_batch_size: 96
+optimizer: Adam
+learning_rate: 0.001
+epochs: 10
+model_dir: weights/skipgram_wikitext-103-v1

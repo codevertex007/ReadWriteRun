@@ -1,0 +1,9 @@
+data_dir: data/wikitext-103-v1
+embedding_dim: 100
+epochs: 10
+learning_rate: 0.001
+model_dir: weights/cbow_wikitext-103-v1
+model_name: cbow
+optimizer: Adam
+train_batch_size: 96
+val_batch_size: 96
