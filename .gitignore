@@ -33,4 +33,4 @@ Thumbs.db
 # --------------------------------
 # Project-specific
 # --------------------------------
-data/
+02-architectures/word2vec/data/
