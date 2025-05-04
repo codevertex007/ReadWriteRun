@@ -9,7 +9,6 @@ dist/
 build/
 *.log
 
-
 # --------------------------------
 # Virtual Environments
 # --------------------------------
@@ -18,7 +17,6 @@ build/
 venv/
 env/
 *.env
-
 
 # --------------------------------
 # VS Code / PyCharm / JetBrains
@@ -32,3 +30,7 @@ env/
 .DS_Store
 Thumbs.db
 
+# --------------------------------
+# Project-specific
+# --------------------------------
+data/
