@@ -18,8 +18,8 @@ This project has three core tracks:
 ## 🧱 Architectures
 
 ### 🔹 Fully Connected Networks
-- [] [Perceptron](./02-architectures/perceptron/)
-- [] [MLP (Multi-Layer Perceptron)](./02-architectures/mlp/)
+- [ ] [Perceptron](./02-architectures/perceptron/)
+- [ ] [MLP (Multi-Layer Perceptron)](./02-architectures/mlp/)
 - [ ] [Backpropagation](./02-architectures/backpropagation/)
 
 ### 🔹 Convolutional Neural Networks (CNN)
