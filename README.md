@@ -3,8 +3,8 @@
 Welcome to **ReadWriteRun**, a structured, hands-on repository where I dive deep into impactful machine learning research papers — not just to read, but to **rebuild, understand, and apply** them.
 
 This project has three core tracks:
-- **Applications**: End-to-end implementations of applied research papers (e.g., Text2SQL, Summarization)  
-- **Architectures**: Recreating foundational models from scratch or with libraries like PyTorch (e.g., Transformer, CNN)  
+- **Applications**: End-to-end implementations of applied research papers
+- **Architectures**: Recreating foundational models from scratch or with libraries like PyTorch
 - **Blog Experiments**: Reproducing and extending interesting blog posts and code walkthroughs
 
 ---
@@ -18,8 +18,8 @@ This project has three core tracks:
 ## 🧱 Architectures
 
 ### 🔹 Fully Connected Networks
-- [x] [Perceptron](./02-architectures/perceptron/)
-- [x] [MLP (Multi-Layer Perceptron)](./02-architectures/mlp/)
+- [] [Perceptron](./02-architectures/perceptron/)
+- [] [MLP (Multi-Layer Perceptron)](./02-architectures/mlp/)
 - [ ] [Backpropagation](./02-architectures/backpropagation/)
 
 ### 🔹 Convolutional Neural Networks (CNN)
@@ -39,7 +39,7 @@ This project has three core tracks:
 - [ ] [Stacked RNNs](./02-architectures/stacked-rnn/)
 
 ### 🔹 Word Embeddings
-- [ ] [Word2Vec](./02-architectures/word2vec/)
+- [x] [Word2Vec](./02-architectures/word2vec/)
 - [ ] [GloVe](./02-architectures/glove/)
 - [ ] [FastText](./02-architectures/fasttext/)
 
